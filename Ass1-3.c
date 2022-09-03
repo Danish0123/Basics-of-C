@@ -1,4 +1,4 @@
-//write a program to find the simple interest
+//program to find the simple interest
 #include <stdio.h>
 int main()
 {
