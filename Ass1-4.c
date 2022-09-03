@@ -1,4 +1,4 @@
-//write a program to find the area of a triangle
+//program to find the area of a triangle
 #include <stdio.h>
 #include <cmath.h>
 int main()
