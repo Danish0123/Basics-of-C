@@ -1,4 +1,4 @@
-//write a program to print Hello World
+//program to print Hello World
 #include <stdio.h>
 int main()
 {
